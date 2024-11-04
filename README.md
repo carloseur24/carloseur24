@@ -6,7 +6,7 @@
 -------
 
 ### Two Years ago this was posted here in my personal repo
-Nevertheless, I learnt a lot of stuff evern since that moment.
+Nevertheless, I've learnt a lot of stuff evern since that moment.
 
 ### Right now I'm a Jr. fullstack Web Developer in an Venezuelan Strartup
 
