@@ -10,7 +10,7 @@ Nevertheless, I've learnt a lot of stuff evern since that moment.
 
 ### Right now I'm a Jr. fullstack Web Developer in an Venezuelan Strartup
 
-- where I've growth in technologies like PHP, JS full vanilla,
+- where I've grown in technologies like PHP, JS full vanilla,
 - Rather than other specialities I have like proficient work in React, NextJs, NestJs which I consider magic and SQL and Mongo DB Databases
 - If you like you can find my portfolio in the next address that was made exactly one year ago using Nextjs and really far from the skills I count with presently.
 
